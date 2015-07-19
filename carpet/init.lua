@@ -187,81 +187,71 @@ minetest.register_node("carpet:white", {
 -- Crafing
 
 minetest.register_craft({
-	output = 'carpet:red 64',
+	output = 'carpet:red 32',
 	recipe = {
-		{'wool:red', 'wool:red', 'wool:red'},
 		{'wool:red', 'wool:red', 'wool:red'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpet:orange 64',
+	output = 'carpet:orange 32',
 	recipe = {
-		{'wool:orange', 'wool:orange', 'wool:orange'},
 		{'wool:orange', 'wool:orange', 'wool:orange'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpetyellow 64',
+	output = 'carpetyellow 32',
 	recipe = {
-		{'wool:yellow', 'wool:yellow', 'wool:yellow'},
 		{'wool:yellow', 'wool:yellow', 'wool:yellow'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpet:green 64',
+	output = 'carpet:green 32',
 	recipe = {
-		{'wool:green', 'wool:green', 'wool:green'},
 		{'wool:green', 'wool:green', 'wool:green'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpet:cyan 64',
+	output = 'carpet:cyan 32',
 	recipe = {
-		{'wool:cyan', 'wool:cyan', 'wool:cyan'},
 		{'wool:cyan', 'wool:cyan', 'wool:cyan'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpet:blue 64',
+	output = 'carpet:blue 32',
 	recipe = {
-		{'wool:blue', 'wool:blue', 'wool:blue'},
 		{'wool:blue', 'wool:blue', 'wool:blue'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpet:pink 64',
+	output = 'carpet:pink 32',
 	recipe = {
-		{'wool:pink', 'wool:pink', 'wool:pink'},
 		{'wool:pink', 'wool:pink', 'wool:pink'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpet:magenta 64',
+	output = 'carpet:magenta 32',
 	recipe = {
 		{'wool:magenta', 'wool:megenta', 'wool:magenta'},
-		{'wool:magenta', 'wool:magenta', 'wool:magenta'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpet:white 64',
+	output = 'carpet:white 32',
 	recipe = {
-		{'wool:white', 'wool:white', 'wool:white'},
 		{'wool:white', 'wool:white', 'wool:white'},
 	}
 })
 
 minetest.register_craft({
-	output = 'carpet:black 64',
+	output = 'carpet:black 32',
 	recipe = {
-		{'wool:black', 'wool:black', 'wool:black'},
 		{'wool:black', 'wool:black', 'wool:black'},
 	}
 })
