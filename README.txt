@@ -20,9 +20,3 @@ http://minetest.net/forum/viewtopic.php?pid=24066#p24066
 
 32 colours with spawning flowers. 
 
------------------------
-
-Notes: There is a reason why the mod is in a folder, it is far easier than to rename a zipball than it is to just have a mod folder, which is extracted with the SAME name.
-
------------------------
-
