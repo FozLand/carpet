@@ -15,8 +15,7 @@ minetest.register_node("carpet:red", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -33,8 +32,7 @@ minetest.register_node("carpet:orange", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -51,8 +49,7 @@ minetest.register_node("carpet:yellow", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -69,8 +66,7 @@ minetest.register_node("carpet:green", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -87,8 +83,7 @@ minetest.register_node("carpet:cyan", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -105,8 +100,7 @@ minetest.register_node("carpet:blue", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -123,8 +117,7 @@ minetest.register_node("carpet:pink", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -142,8 +135,7 @@ minetest.register_node("carpet:black", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -160,8 +152,7 @@ minetest.register_node("carpet:magenta", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
@@ -178,8 +169,7 @@ minetest.register_node("carpet:white", {
 	buildable_to = true,
 	selection_box = {
 		type = "fixed",
-                
-                fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
+		fixed = {-1/2, -1/2, -1/2, 1/2, -1/2+1/16, 1/2},
 	},
 	groups = {dig_immediate=2},
 })
